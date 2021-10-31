@@ -2,7 +2,9 @@
 
 
 ⛳  Tech Stack :) HTML
+
                 :) CSS
                 
 ⛳  Learnings :) HTML FOMRS
+
                :) RESPONSIVENESS 
